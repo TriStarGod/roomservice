@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/roomservice/static/css/main.b100e6da.chunk.css",
-    "main.js": "/roomservice/static/js/main.e158e021.chunk.js",
-    "main.js.map": "/roomservice/static/js/main.e158e021.chunk.js.map",
+    "main.js": "/roomservice/static/js/main.a4347a6a.chunk.js",
+    "main.js.map": "/roomservice/static/js/main.a4347a6a.chunk.js.map",
     "runtime-main.js": "/roomservice/static/js/runtime-main.9f3bae88.js",
     "runtime-main.js.map": "/roomservice/static/js/runtime-main.9f3bae88.js.map",
     "static/js/2.655fe3dd.chunk.js": "/roomservice/static/js/2.655fe3dd.chunk.js",
     "static/js/2.655fe3dd.chunk.js.map": "/roomservice/static/js/2.655fe3dd.chunk.js.map",
     "index.html": "/roomservice/index.html",
-    "precache-manifest.9c7e1310d399c99fd813ee431c143449.js": "/roomservice/precache-manifest.9c7e1310d399c99fd813ee431c143449.js",
+    "precache-manifest.8087eadc447a7b063fca88604a8ea1f1.js": "/roomservice/precache-manifest.8087eadc447a7b063fca88604a8ea1f1.js",
     "service-worker.js": "/roomservice/service-worker.js",
     "static/css/main.b100e6da.chunk.css.map": "/roomservice/static/css/main.b100e6da.chunk.css.map"
   },
@@ -16,6 +16,6 @@
     "static/js/runtime-main.9f3bae88.js",
     "static/js/2.655fe3dd.chunk.js",
     "static/css/main.b100e6da.chunk.css",
-    "static/js/main.e158e021.chunk.js"
+    "static/js/main.a4347a6a.chunk.js"
   ]
 }
