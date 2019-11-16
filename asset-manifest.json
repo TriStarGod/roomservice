@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/TriStarGod/roomservice/static/css/main.b100e6da.chunk.css",
+    "main.js": "/TriStarGod/roomservice/static/js/main.7f5fdf64.chunk.js",
+    "main.js.map": "/TriStarGod/roomservice/static/js/main.7f5fdf64.chunk.js.map",
+    "runtime-main.js": "/TriStarGod/roomservice/static/js/runtime-main.adcae071.js",
+    "runtime-main.js.map": "/TriStarGod/roomservice/static/js/runtime-main.adcae071.js.map",
+    "static/js/2.655fe3dd.chunk.js": "/TriStarGod/roomservice/static/js/2.655fe3dd.chunk.js",
+    "static/js/2.655fe3dd.chunk.js.map": "/TriStarGod/roomservice/static/js/2.655fe3dd.chunk.js.map",
+    "index.html": "/TriStarGod/roomservice/index.html",
+    "precache-manifest.acdd91d37a2b9daaa67be2988820c731.js": "/TriStarGod/roomservice/precache-manifest.acdd91d37a2b9daaa67be2988820c731.js",
+    "service-worker.js": "/TriStarGod/roomservice/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/TriStarGod/roomservice/static/css/main.b100e6da.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.adcae071.js",
+    "static/js/2.655fe3dd.chunk.js",
+    "static/css/main.b100e6da.chunk.css",
+    "static/js/main.7f5fdf64.chunk.js"
+  ]
+}
