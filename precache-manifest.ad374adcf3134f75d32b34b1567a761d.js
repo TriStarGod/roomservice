@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "68b82e2fa86014c930477980925f2431",
+    "revision": "d16c64c92900dbf7fccc1c71a90d11c9",
     "url": "/roomservice/index.html"
   },
   {
-    "revision": "eff5cfd483ff1d548053",
+    "revision": "d5d7e16860c26efa1192",
     "url": "/roomservice/static/css/main.b100e6da.chunk.css"
   },
   {
-    "revision": "f3802e3dcac7f12974e7",
-    "url": "/roomservice/static/js/2.1a84600f.chunk.js"
+    "revision": "804f5d2b6aaac45cedc6",
+    "url": "/roomservice/static/js/2.7a7c324c.chunk.js"
   },
   {
-    "revision": "eff5cfd483ff1d548053",
-    "url": "/roomservice/static/js/main.5cefa21f.chunk.js"
+    "revision": "d5d7e16860c26efa1192",
+    "url": "/roomservice/static/js/main.3ebdc10e.chunk.js"
   },
   {
     "revision": "6a6a25cc35487727ed95",
