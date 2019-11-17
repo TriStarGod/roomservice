@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/roomservice/static/css/main.b100e6da.chunk.css",
-    "main.js": "/roomservice/static/js/main.95a24dc9.chunk.js",
-    "main.js.map": "/roomservice/static/js/main.95a24dc9.chunk.js.map",
+    "main.js": "/roomservice/static/js/main.48819dd8.chunk.js",
+    "main.js.map": "/roomservice/static/js/main.48819dd8.chunk.js.map",
     "runtime-main.js": "/roomservice/static/js/runtime-main.9f3bae88.js",
     "runtime-main.js.map": "/roomservice/static/js/runtime-main.9f3bae88.js.map",
-    "static/js/2.7a7c324c.chunk.js": "/roomservice/static/js/2.7a7c324c.chunk.js",
-    "static/js/2.7a7c324c.chunk.js.map": "/roomservice/static/js/2.7a7c324c.chunk.js.map",
+    "static/js/2.ee125bc9.chunk.js": "/roomservice/static/js/2.ee125bc9.chunk.js",
+    "static/js/2.ee125bc9.chunk.js.map": "/roomservice/static/js/2.ee125bc9.chunk.js.map",
     "index.html": "/roomservice/index.html",
-    "precache-manifest.dc3d68973a94641c9f053911c97000c9.js": "/roomservice/precache-manifest.dc3d68973a94641c9f053911c97000c9.js",
+    "precache-manifest.73f9cdf47c9dc692be57d41e609a472b.js": "/roomservice/precache-manifest.73f9cdf47c9dc692be57d41e609a472b.js",
     "service-worker.js": "/roomservice/service-worker.js",
     "static/css/main.b100e6da.chunk.css.map": "/roomservice/static/css/main.b100e6da.chunk.css.map"
   },
   "entrypoints": [
     "static/js/runtime-main.9f3bae88.js",
-    "static/js/2.7a7c324c.chunk.js",
+    "static/js/2.ee125bc9.chunk.js",
     "static/css/main.b100e6da.chunk.css",
-    "static/js/main.95a24dc9.chunk.js"
+    "static/js/main.48819dd8.chunk.js"
   ]
 }
